@@ -53,8 +53,6 @@
 
 **整体来看，Starfirewall 更适合把电脑代理当作日常工具来管理的人。**初次配置有一定学习成本，但订阅、节点选择和本地软件设置各有入口，便于围绕自己的工作环境调整。下载速度和游戏延迟还会受到本地宽带、出口路由、节点负载与目标服务器的影响，需要在实际使用环境中判断。
 
-客户端接管与分流概念可参考 [Mihomo TUN 文档](https://wiki.metacubex.one/config/inbound/tun/)；具体选项以实际使用的客户端为准。
-
 [查看 Starfirewall 套餐与使用说明](https://starfirewall.com/)
 
 ### 二、[StrongVPN](https://overwallvpn.com/go/strongvpn)：老牌、低调，但在中国“顽强”存在
