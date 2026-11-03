@@ -32,7 +32,19 @@
 
 带着这个前提，再看这几款主流 VPN 的优势，就会清晰很多。
 
+### [Starfirewall](https://starfirewall.com/)：通过订阅管理电脑上的连接
+
+![Starfirewall 官网界面](https://overwallvpn.com/wp-content/uploads/2026/10/starfirewall-homepage.jpg)
+
+电脑端如果经常切换浏览器、开发工具和在线协作软件，可以了解一下 Starfirewall。它采用订阅接入方式：在用户中心获取订阅，再按照说明导入与协议兼容的 Windows 或 macOS 客户端。对已经习惯使用代理客户端的人来说，账号管理与本地连接设置各有清晰的入口。
+
+使用时建议先确认客户端的接管范围：网页能打开，并不意味着终端、IDE 和其他应用都已经走代理。先检查系统代理或客户端支持的 TUN 设置，再分别测试工作中真正要用的软件。订阅地址包含账户凭据，应妥善保存；具体流量额度和使用规则以用户中心为准。
+
+[查看 Starfirewall 套餐与使用说明](https://starfirewall.com/)
+
 ### 二、[StrongVPN](https://overwallvpn.com/go/strongvpn)：老牌、低调，但在中国“顽强”存在
+
+![StrongVPN 产品界面](https://overwallvpn.com/wp-content/uploads/2025/10/StrongVPN-App.jpg)
 
 **StrongVPN** 在国内讨论度不如 Nord 和 Express 高，但在“翻墙老用户”圈子里口碑还不错，主要优势在于：  
 
@@ -48,6 +60,8 @@
 如果你想要的是**一个低调、价格不算太贵、在中国有一定容错率的备用梯子**，StrongVPN 是可以考虑的。  
 
 ### 三、[CyberGhost](https://overwallvpn.com/go/cyberghost)：功能多、服务器多，但在中国体验略“玄学”
+
+![CyberGhost 产品界面](https://overwallvpn.com/wp-content/uploads/2025/12/cyberghost-china-ip.jpg)
 
 **CyberGhost VPN** 在全球范围挺火，主打“服务器超级多、解锁流媒体能力强（Netflix、BBC iPlayer 等）”。放在国际用户眼里，它的优势挺明显：  
 
@@ -68,6 +82,8 @@
 
 ### 四、[PrivateVPN](https://overwallvpn.com/go/privatevpn)：小而精，隐私友好，在中国算“小众黑马”
 
+![PrivateVPN 产品界面](https://overwallvpn.com/wp-content/uploads/2024/11/privatevpn-homepage.jpg)
+
 **PrivateVPN** 的知名度不如其他几个大牌，但在很多“高墙地区”的圈子里，它被当成某种 **“低调好用的小众选择”**：  
 
 优势在于：  
@@ -85,6 +101,8 @@
 > 低调、懂一点网络设置、愿意花时间调优连接方式的用户；把 PrivateVPN 当成“备用但可靠”的后手，而不是单一主力。  
 
 ### 五、[NordVPN](https://overwallvpn.com/go/nordvpn)：综合表现最强之一，中国用户常见“主力梯子”
+
+![NordVPN 产品界面](https://overwallvpn.com/wp-content/uploads/2025/12/nordvpn-homepage.jpg)
 
 很多在网上问“现在在中国翻墙用什么”的帖子里，**NordVPN 和 ExpressVPN** 出现频率非常高。  
 **NordVPN** 的优势可以简单概括为：**技术配置豪华 + 对中国用户相对友好**。  
@@ -115,6 +133,8 @@
 整体来看，**NordVPN 是目前在中国使用 VPN 时“综合实力最强”的主流选择之一**，适合大部分不想折腾、又希望长期可用的用户。  
 
 ### 六、[ExpressVPN](https://overwallvpn.com/go/expressvpn)：老牌旗舰，抗封锁能力强，价格也“旗舰”
+
+![ExpressVPN 产品界面](https://overwallvpn.com/wp-content/uploads/2025/11/expressvpn-homepage.jpg)
 
 说道能在中国长期坚持的 VPN，**ExpressVPN** 一直是绕不开的那个名字。很多人甚至把它当作“中国环境下 VPN 的标杆”。  
 
